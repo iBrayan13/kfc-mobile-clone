@@ -10,7 +10,7 @@ for i in menu_kfc:
             content= Container(
                 bgcolor= "white",
                 width= 150,
-                height= 260,
+                height= 285,
                 border_radius= border_radius.all(30),
                 content= Column([
                     Image(

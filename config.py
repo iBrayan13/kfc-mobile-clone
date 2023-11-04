@@ -5,3 +5,4 @@ def config_page(page: Page):
     page.theme_mode = ThemeMode.LIGHT
     page.padding = 0
     page.spacing = 0
+    page.window_width = 500
